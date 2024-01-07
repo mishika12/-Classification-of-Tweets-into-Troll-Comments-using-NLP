@@ -9,5 +9,5 @@ The objective of this project is to detect hate speech in tweets. For the sake o
 
  ### <ins> Methodology
 
-The dataset uses a given training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist. The project aims to develop a predictive model that classifies the tweets as trolls/ not trolls using Natural Language Processing techniques.
+The dataset uses a given training sample of tweets and labels, where label '1' denotes the tweet is racist/sexist and label '0' denotes the tweet is not racist/sexist. The project aims to develop a predictive model that analyzes the tweets using Natural Language Processing techniques and classifies them into Trolls/ No trolls using classification algorithms like Logistic Regression, Random Forest, Naive Bayes, XGBoost. 
 
