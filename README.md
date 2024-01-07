@@ -1,4 +1,4 @@
-###Classification of Twitter Tweets as Troll Comments using NLP
+### Classification of Twitter Tweets as Troll Comments using NLP
 
  ### <ins> Introduction
 Today, trolling has become a known evil and side-effect of social media where faceless individuals bully people online with hate/ toxic comments on their user profile. Thus, it has become essential for social media platforms to identify these comments as trolls and deploy a mechanism to remove them before they mentally disturb a user. 
